@@ -1,0 +1,11 @@
+
+Subject 0
+Mean Accuracy: 1.0
+Mean Levenhstein Distance 0.0
+
+Subject 1
+Mean Accuracy: 1.0
+Mean Levenhstein Distance 0.0
+-----------------------------------------------------
+Net Mean Accuracy: 1.0
+Net Levenhstein Distance 0.0
